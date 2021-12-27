@@ -1,2 +1,1 @@
-# ISS-Tracker-1-Teacher-Ref
-Reference code for C76
+c76 project
